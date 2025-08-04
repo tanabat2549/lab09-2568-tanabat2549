@@ -1,8 +1,8 @@
 # Lab 09 : Todo List
 
-ชื่อ-สกุล :
+ชื่อ-สกุล : ธนบัตร กังวานไกร
 
-รหัสนักศึกษา :
+รหัสนักศึกษา : 670612121
 
 ---
 
@@ -24,4 +24,4 @@ pnpm run dev
 
 ตัวอย่าง app ที่เสร็จแล้ว
 
-https://lab09-tuinuichanadda-67062039-u6r9.vercel.app/ 
+https://lab09-tuinuichanadda-67062039-u6r9.vercel.app/
